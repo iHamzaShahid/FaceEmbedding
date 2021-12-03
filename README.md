@@ -2,8 +2,8 @@
 To geneerate the face embedding for face recognition pipeline
 
 # Requirements
-Retinaface (pip3 install retina-face)
-Deepface   (pip3 install deepface)
+- Retinaface (pip3 install retina-face)
+- Deepface   (pip3 install deepface)
 json
 numpy
 os
